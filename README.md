@@ -11,7 +11,7 @@ npm start
 ~~~
 
 # Usage
-## Demo for opening the game
+## Demo Video for opening the game (Click on the image below to see the video)
 [![Watch the video](https://github.com/HarshitNITT/tic-tac-toe/blob/master/demo/tic_tac_toe.png)](https://youtu.be/xZHgJH81dM4)
 # Languages
 Reactjs
