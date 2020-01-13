@@ -1,5 +1,5 @@
 # tic-tac-toe
-This is a web-app which can used for making,storing and deleting notes in react.
+This is a tictoe game involving two players made using reactjs
 
 # Installation
 First clone the project in your local machine using:
